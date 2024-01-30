@@ -2,6 +2,11 @@
 
 This project is a fully functional Coffee Machine GUI that presents a menu of hot drinks for users to choose from. Users can select their preferred beverage, customize it, and confirm their order by paying. Developed as part of the CP1890 Python II course project, this application utilizes Python GUI, OpenWeatherMap API, and Tkinter.
 
+## Screenshots
+
+![Screenshot Coffee_Machine 1](https://github.com/ImransCodeHub/Coffee_Machine/assets/97769980/58dba947-02cf-432a-8fea-26f212816603)
+![Screenshot Coffee_Machine2](https://github.com/ImransCodeHub/Coffee_Machine/assets/97769980/ea3cc4d5-0405-4fc0-9912-d3eb579ecdd1)
+
 ## Features
 
 - Menu of hot drinks including coffee, tea, and hot chocolate.
